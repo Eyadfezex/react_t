@@ -1,5 +1,4 @@
 import React from 'react'
-import { useState } from 'react'
 import ItemList from './ItemList'
 const Content = ({ items, handleCheck, handleDelete }) => {
     return (
